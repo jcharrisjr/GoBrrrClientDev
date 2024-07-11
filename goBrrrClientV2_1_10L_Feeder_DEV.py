@@ -9,7 +9,7 @@
 #   a strong bear market state
 #
 #   Last updated: [18MAR2021 - 00:14:00]
-#   Author: slid3r
+#   Author: jcharrisjr
 #
 ##########################################################
 
